@@ -7,7 +7,7 @@ birthDate = document.getElementById("date").value
 birthDate = new Date(birthDate);
 
 var birthYear = birthDate.getFullYear();
-var birthMonth = birthDate.getMonth() +;
+var birthMonth = birthDate.getMonth();
 var birthDay = birthDate.getDay();
 
 CC = birthYear.toString().substract(0, 2);
