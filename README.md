@@ -7,8 +7,9 @@ web application that takes a user's birth date and calculates the day of the wee
 #### By **KevineUmuhoza**
 
 ## Setup instructions
-* A text editor is needed(Visual Studio Code was used)
-* open it in a browser
+* Clone this repository on your PC
+* Open it in a text editor to view codes(I used Visual Studio Code)
+* Open the html file in a browser.
 
 ## Behavior Driven Development
   1. The user finds his/her Akan name by providing his/her birth date and gender.
