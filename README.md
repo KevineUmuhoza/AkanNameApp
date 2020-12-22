@@ -1,4 +1,4 @@
-# AkanNameApp
+# akan-name-app
 
 
 ## Description
