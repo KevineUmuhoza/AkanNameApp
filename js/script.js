@@ -25,7 +25,7 @@ femaleAkanNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 
 let birthDay;
 
-if (dayOfWeek == 0 && gender == "male")
+if (dayOfWeek == 0 && gender == "male"){
     birthDay = "Sunday";
     akanName = maleAkanNames[0];
 } else if (dayOfWeek == 0 && gender == "female"){
